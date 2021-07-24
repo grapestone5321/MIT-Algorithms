@@ -1,7 +1,12 @@
 # MIT-Algorithms
 MIT-Algorithms
 
+The MIT recommended order for watching this is 6.042J (Mathematics for Computer Science) , then 6.006 (Introduction to Algorithms) and finally 6.046J (Analysis and Design of Algorithms).
 
+## Mathematics for Computer Science: MIT Course Number: 6.042J / 18.062J
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm
+
+Instructor(s): Prof. Tom Leighton, Dr. Marten van Dijk
 
 ## Introduction to Algorithms: MIT Course Number: 6.006
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
