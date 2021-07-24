@@ -1,18 +1,16 @@
 # MIT-Algorithms
 MIT-Algorithms
 
-## Design and Analysis of Algorithms
-MIT Course Number: 6.046J / 18.410J
+## Design and Analysis of Algorithms: MIT Course Number: 6.046J / 18.410J
 
 Instructor(s): Prof. Erik Demaine, Prof. Srini Devadas. Prof. Nancy Lynch
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
 
+https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
-## Introduction to Algorithms
+## Introduction to Algorithms: MIT Course Number: 6.006
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
-
-MIT Course Number: 6.006
 
 Instructor(s): Prof. Erik Demaine, Prof. Srini Devadas
 
